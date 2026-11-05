@@ -24,6 +24,10 @@ And to create an unordered list, we simply put a star (`*`) before each item.
 
 ## 1. Getting Data
 
+
+
+
+
 Use two hashtag symbols (`##`) to create a level 2 heading like this one.
 
 To include a screen capture, use the sample code below. Your images should be saved in the same folder as your `.md` file.
