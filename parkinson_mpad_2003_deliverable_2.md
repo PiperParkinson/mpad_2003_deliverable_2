@@ -1,4 +1,4 @@
-**Date**<br>
+**November 5th 2026**<br>
 **Course Code & Course Name**<br>
 **Student's First Name & Last Name**<br>
 **Presented to Jean-Sébastien Marier**<br>
@@ -24,7 +24,11 @@ And to create an unordered list, we simply put a star (`*`) before each item.
 
 ## 1. Getting Data
 
+CONTEXT GOES HERE
 
+The data set I am talking about is one from the Open Ottawa Database about the Greenhouse gas emissions from 2012 to 2024, for this assignment however, I will be looking at the data between years 2016 and 2024.
+
+The data can be found at the following link:  https://open.ottawa.ca/datasets/ottawa::greenhouse-gas-ghg-emissions-inventories-2024/explore 
 
 
 
@@ -52,7 +56,18 @@ This also shows how to create an ordered list. Simply put `1.` before each item.
 
 Use three hashtag symbols (`###`) to create a level 3 heading like this one. Please follow this template when it comes to level 1 and level 2 headings. However, you can use level 3 headings as you see fit.
 
-Insert text here.
+    #### Data Source #1: Greenhouse gas (GHG) emissions inventories 2024 - VIMO ANALYSIS
+    VALID: 
+    INVALID:
+    MISSING:
+    OUTLIERS:
+   
+    #### Data Source #1: Table 2.1 Projections for Extreme Precipitation Based on Multiple Methods - VIMO ANALYSIS
+    VALID: 
+    INVALID:
+    MISSING:
+    OUTLIERS:
+
 
 Support your claims by citing relevant sources. Please follow [APA guidelines for in-text citations](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
